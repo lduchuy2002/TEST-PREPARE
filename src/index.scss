@@ -1,0 +1,10 @@
+
+@import "primereact/resources/primereact.min.css"; 
+@import "primeicons/primeicons.css";
+@import "primereact/resources/themes/nova-alt/theme.css";      
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
